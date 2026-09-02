@@ -574,7 +574,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>New Winter Collection  Premium Picks</h1>
-                <p>Discover the latest trends in fashion, technology and accessories — curated just for you. welcome to fwinter collections. </p>
+                <p>Discover the latest trends in fashion, technology and accessories — curated just for you.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
@@ -586,7 +586,7 @@
         <section class="section container" aria-labelledby="cat-title">
             <div class="title" id="cat-title">
                 <h2 class="section-title">Shop by Category</h2>
-                <p class="muted">Browse through our wide range of products across curated categories.</p>
+                <p class="muted">Browse through our wide range of prodducts.</p>
             </div>
 
             <div class="grid categories" id="categoriesGrid" aria-live="polite"></div>
