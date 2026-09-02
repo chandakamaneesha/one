@@ -606,7 +606,7 @@
         <section id="deals" class="section container" aria-labelledby="deals-title">
             <div class="title" id="deals-title">
                 <h2>Flash Sale</h2>
-                <p class="muted">Limited-time offers — don't miss out!</p>
+                <p class="muted">Limited-time offers</p>
             </div>
 
             <div class="deal" style="align-items:stretch;">
